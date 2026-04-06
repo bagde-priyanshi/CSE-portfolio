@@ -1,4 +1,4 @@
-# CSE-portfolio
+# CSE-Portfolio
 "First year CSE student at JNCT Bhopal"
 ## Skills
 - Python (beginner-intermediate)  
