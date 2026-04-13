@@ -7,7 +7,7 @@
 - Electrical Engineering basics
 
 ## Current Projects
-- Python Calculator (coming soon)
+- Python Calculator 
 - To-Do List App  
 - Math analysis notebooks
 
